@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d221d00b-6cac-481f-921b-503dc0f94609" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumOddNumbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rowSumOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/RowSumOddNumbersTest.java" afterDir="false" />
+    <list default="true" id="d221d00b-6cac-481f-921b-503dc0f94609" name="Changes" comment="Add description">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,12 +86,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696687952209</updated>
-      <workItem from="1696687953214" duration="410000" />
+      <workItem from="1696687953214" duration="1811000" />
     </task>
+    <task id="LOCAL-00001" summary="Add description">
+      <option name="closed" value="true" />
+      <created>1696688720905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696688720905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add description" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
